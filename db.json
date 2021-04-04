@@ -1,6 +1,10 @@
 {
-  "professionals": 1654,
-  "no_tests": 32,
+  "tests": [
+    {
+      "professionals": 1654,
+      "no_tests": 34
+    }
+  ],
   "central_data": [
     {
       "profile_id": 1,
