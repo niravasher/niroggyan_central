@@ -113,6 +113,16 @@
       "old_male_abnormal": 22,
       "old_female_abnormal": 1,
       "comment": "this is a lorem ipsum comment"
+    },
+    {
+      "profile_id": 10,
+      "profile_name": "Some other",
+      "test_no": 42,
+      "young_male_abnormal": 99,
+      "young_female_abnormal": 14,
+      "old_male_abnormal": 22,
+      "old_female_abnormal": 1,
+      "comment": "this is a lorem ipsum comment"
     }
   ]
 }
