@@ -26,7 +26,7 @@
     },
     {
       "profile_id": 2,
-      "profile_name": "HyperGlycemia",
+      "profile_name": "Kidney",
       "test_no": 42,
       "young_male_abnormal": 45,
       "young_female_abnormal": 39,
@@ -36,7 +36,7 @@
     },
     {
       "profile_id": 3,
-      "profile_name": "Rapid Antigen",
+      "profile_name": "Lipids",
       "test_no": 42,
       "young_male_abnormal": 39,
       "young_female_abnormal": 36,
@@ -46,7 +46,7 @@
     },
     {
       "profile_id": 4,
-      "profile_name": "Some other",
+      "profile_name": "Thyroid",
       "test_no": 42,
       "young_male_abnormal": 65,
       "young_female_abnormal": 33,
@@ -56,7 +56,7 @@
     },
     {
       "profile_id": 5,
-      "profile_name": "Some other",
+      "profile_name": "Liver",
       "test_no": 42,
       "young_male_abnormal": 35,
       "young_female_abnormal": 30,
@@ -66,7 +66,7 @@
     },
     {
       "profile_id": 6,
-      "profile_name": "Some other",
+      "profile_name": "Diabetes",
       "test_no": 42,
       "young_male_abnormal": 81,
       "young_female_abnormal": 27,
@@ -76,7 +76,7 @@
     },
     {
       "profile_id": 7,
-      "profile_name": "Some other",
+      "profile_name": "Vitamin D",
       "test_no": 42,
       "young_male_abnormal": 29,
       "young_female_abnormal": 24,
@@ -86,7 +86,7 @@
     },
     {
       "profile_id": 8,
-      "profile_name": "Some other",
+      "profile_name": "Vitamin B12",
       "test_no": 42,
       "young_male_abnormal": 73,
       "young_female_abnormal": 20,
@@ -96,7 +96,7 @@
     },
     {
       "profile_id": 9,
-      "profile_name": "Some other",
+      "profile_name": "Electrolytes & Minerals",
       "test_no": 42,
       "young_male_abnormal": 21,
       "young_female_abnormal": 17,
@@ -106,7 +106,7 @@
     },
     {
       "profile_id": 10,
-      "profile_name": "Some other",
+      "profile_name": "Anemia",
       "test_no": 42,
       "young_male_abnormal": 99,
       "young_female_abnormal": 14,
@@ -115,8 +115,8 @@
       "comment": "this is a lorem ipsum comment"
     },
     {
-      "profile_id": 10,
-      "profile_name": "Some other",
+      "profile_id": 11,
+      "profile_name": "Urine",
       "test_no": 42,
       "young_male_abnormal": 99,
       "young_female_abnormal": 14,
